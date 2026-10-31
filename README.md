@@ -1,6 +1,6 @@
 # Módulos de red de Terraform
 
-Colección de módulos reutilizables para crear una red básica en AWS, Azure y Google Cloud.
+Colección de módulos reutilizables para crear una red básica en AWS, Azure y Google Cloud. El módulo de Azure crea un Resource Group, VNet, subnet y NSG; su VM Linux opcional está deshabilitada por defecto.
 
 ## Estructura
 
